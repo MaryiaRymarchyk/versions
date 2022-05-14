@@ -1,10 +1,10 @@
 docker:
-  migrations: 5.7.0-RC-21
-  authorization: 5.7.0-RC-16
-  index: 5.5.0-RC-10
+  migrations: 5.7.0
+  authorization: 5.7.0
+  index: 5.7.0
   api: 5.7.1-RC-52
   jobs: 5.7.1-RC-9
   jobsbill: RC-70
   ui: 5.7.1-RC-46
-  analyzer: 5.7.2-RC-25
-  metricsgatherer: 1.1.17
+  analyzer: 5.7.0-SNAPSHOT
+  metricsgatherer: 1.1.18
