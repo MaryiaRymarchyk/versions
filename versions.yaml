@@ -2,9 +2,9 @@ docker:
   migrations: 5.7.0
   authorization: 5.7.0
   index: 5.0.11
-  api: 5.7.2-RC-53
-  jobs: 5.7.2-RC-10
+  api: 5.7.1-GS-RC-54
+  jobs: 5.7.1-GS-RC-11
   jobsbill: RC-70
-  ui: 5.7.1-RC-46
+  ui: 5.7.0
   analyzer: 5.7.2-RC-26
   metricsgatherer: 5.7.2-RC-4
