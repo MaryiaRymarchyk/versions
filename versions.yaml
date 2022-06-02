@@ -2,8 +2,8 @@ docker:
   migrations: SNAPSHOT-280
   authorization: SNAPSHOT-1098
   index: SNAPSHOT-47
-  api: SNAPSHOT-2100
+  api: 5.7.1-jreslim
   jobs: SNAPSHOT-26
   ui: SNAPSHOT-1493
   analyzer: SNAPSHOT-1357
-  metricsgatherer: 1.1.17
+  metricsgatherer: 1.1.19
