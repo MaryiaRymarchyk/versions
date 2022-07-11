@@ -4,7 +4,6 @@ docker:
   index: 5.0.11
   api: SNAPSHOT-34
   jobs: 5.7.2
-  jobsbill:
   ui: 5.7.2
   analyzer: 5.7.2
   metricsgatherer: 1.1.20
