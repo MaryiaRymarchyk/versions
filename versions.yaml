@@ -1,5 +1,5 @@
 docker:
-  migrations: 5.7.233
+  migrations: 5.7.0
   authorization: 5.7.0
   index: 5.0.11
   api: SNAPSHOT-34
