@@ -4,6 +4,6 @@ docker:
   index: SNAPSHOT-48
   api: SNAPSHOT-45
   jobs: SNAPSHOT-32
-  ui: SNAPSHOT-1554
+  ui: v5.7.2-security-fix
   analyzer: SNAPSHOT-1357
   metricsgatherer: 1.1.19
