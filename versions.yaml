@@ -3,7 +3,7 @@ docker:
   authorization: 5.7.0
   index: 5.0.11
   api: 5.7.2
-  jobs: 5.7.2
+  jobs: SNAPSHOT-12
   jobsbill: 5.7.2-RC-10
   ui: 5.7.2-RC-4
   analyzer: 5.7.2-RC-6
