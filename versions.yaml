@@ -4,6 +4,7 @@ docker:
   index: 5.7.3-RC-9
   api: 5.7.3-RC-9
   jobs: 5.7.3-RC-7
+  jobsbill: 5.7.2-RC-10
   ui: SNAPSHOT-172
   analyzer: 5.7.3-RC-8
   metricsgatherer: 5.7.3-RC-4
