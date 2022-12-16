@@ -4,6 +4,6 @@ docker:
   index: 5.7.3-RC-release
   api: SNAPSHOT-180
   jobs: 5.7.4-RC-13
-  ui: SNAPSHOT-214
+  ui: SNAPSHOT-216
   analyzer: 5.7.4-RC-9
   metricsgatherer: 5.7.3-RC-release
