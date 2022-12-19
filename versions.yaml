@@ -4,7 +4,7 @@ docker:
   index: 5.7.3-RC-release
   api: 5.7.4-RC-10
   jobs: null
-  jobsbill: SNAPSHOT-63
+  jobsbill: SNAPSHOT-64
   ui: 5.7.4-RC-11
   analyzer: 5.7.4-RC-9
   metricsgatherer: 5.7.3-RC-release
