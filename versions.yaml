@@ -1,5 +1,5 @@
 docker:
-  migrations: 5.7.3-RC-release
+  migrations: SNAPSHOT-34
   authorization: 5.7.3-RC-release
   index: 5.7.3-RC-release
   api: SNAPSHOT-182
