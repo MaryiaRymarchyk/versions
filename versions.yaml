@@ -1,6 +1,6 @@
 docker:
   migrations: SNAPSHOT-33
-  authorization: 5.7.4-RC-7
+  authorization: SNAPSHOT-13
   index: 5.7.3-RC-release
   api: SNAPSHOT-190
   jobs: 5.7.4-RC-13
